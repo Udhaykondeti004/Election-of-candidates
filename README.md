@@ -43,17 +43,26 @@ candidate. Our main Objective is to make voting
 procedure flexible for every voter.
 
 • Registering vote
+
 • Presenting candidates
+
 • Collecting votes
+
 • Storing votes in the database
+
 • Showing the statistics of votes
+
 • Revealing lead candidate
+
 • Counting respective votes
+
 • Presenting winner of the election
+
 • User friendly interface
-• Segregating spoiled votes,
-• Switching interface between
-citizen and counters
+
+• Segregating spoiled votes
+
+• Switching interface between citizen and counters
 
 
 
